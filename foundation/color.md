@@ -1,3 +1,5 @@
+原规范：http://one-design.baidu-int.com/design/basic/color
+
 将[One Design - 色板](http://one-design.baidu-int.com/design/basic/color)进行细分，划分出基础色板、中性色板、文字颜色、状态颜色、数据图表配色。
 
 ![One Design色板](../images/foundation/color/color01.png)
@@ -8,9 +10,7 @@
 
 ![基础色板](../images/foundation/color/color02.png)
 
-**参考**
-
-[Ant Design - 基础色板](https://ant.design/docs/spec/colors-cn#%E5%9F%BA%E7%A1%80%E8%89%B2%E6%9D%BF)
+> 参考 [Ant Design - 基础色板](https://ant.design/docs/spec/colors-cn#%E5%9F%BA%E7%A1%80%E8%89%B2%E6%9D%BF)
 
 # 中性色板（新增）
 
@@ -18,9 +18,7 @@
 
 ![中性色板](../images/foundation/color/color03.png)
 
-**参考**
-
-[Ant Design - 中性色板](https://ant.design/docs/spec/colors-cn#%E4%B8%AD%E6%80%A7%E8%89%B2%E6%9D%BF)
+> 参考 [Ant Design - 中性色板](https://ant.design/docs/spec/colors-cn#%E4%B8%AD%E6%80%A7%E8%89%B2%E6%9D%BF)
 
 # 文字颜色（新增）
 
@@ -32,9 +30,7 @@
 
 - 文字作用：文字在不同作用场景下的颜色选取（如帮助文字、强调文字、已选文字、图标符号等）
 
-**参考**
-
-[Material Design - Text legibility](https://material.io/design/color/text-legibility.html)
+> 参考 [Material Design - Text legibility](https://material.io/design/color/text-legibility.html)
 
 # 状态颜色（新增）
 
@@ -42,9 +38,7 @@
 
 - 能给用户的操作反馈明确信息的一组功能色（如成功、出错、失败等）
 
-**参考**
-
-[Material Design - State](https://material.io/design/color/color-usage.html#state)
+> 参考 [Material Design - State](https://material.io/design/color/color-usage.html#state)
 
 [Ant Design - 功能色](https://ant.design/docs/spec/colors-cn#%E5%8A%9F%E8%83%BD%E8%89%B2)
 

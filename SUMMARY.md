@@ -3,4 +3,7 @@
 * [Introduction 介绍](README.md)
 * [Foundation 基础](foundation/README.md)
     * [Color 色彩](foundation/color.md)
+    * [Typography 字体与排版](foundation/typography.md)
+    * [Icon 图标](foundation/icon.md)
+    * [Shape 形状](foundation/shape.md)
 
