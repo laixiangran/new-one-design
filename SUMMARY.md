@@ -6,4 +6,5 @@
     * [Typography 字体与排版](foundation/typography.md)
     * [Icon 图标](foundation/icon.md)
     * [Shape 形状](foundation/shape.md)
+    * [Layout 布局](foundation/layout.md)
 
