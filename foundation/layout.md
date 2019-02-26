@@ -1,27 +1,35 @@
 原规范：http://one-design.baidu-int.com/design/basic/layout
 
 
-## 一. 统一的画板尺寸（新增）
+# 统一的画板尺寸（新增）
 
-    1. 为了尽可能减少沟通与理解的成本，有必要在组织内部统一设计板的尺寸。
+- 为了尽可能减少沟通与理解的成本，有必要在组织内部统一设计板的尺寸。
 
-## 二. 交互特征 (one-design原有)
+> 参考 [ant Design - 布局 - 统一画板](https://ant.design/docs/spec/layout-cn#%E7%BB%9F%E4%B8%80%E7%94%BB%E6%9D%BF)
 
-    1. 上中下布局；
-        a. 顶部 header 导航区，中部 content 内容区，底部 footer 脚注区。
-    2. 顶部-侧边布局:
-        a. 左侧导航栏固定位置，不随内容滚动；
-        b. 左侧导航栏高度适配浏览器高度，随浏览器高度变化而变化；
-        c. 左侧导航栏内容超出浏览高度后，菜单区域会显示滚动条；
-        d. 内容区：根据浏览器宽度，内容区自适应。
-    注：来源（http://one-design.baidu-int.com/design/basic/layout）
+# 间距方法 (新增)
 
-## 三. 栅格 (one-design原有)
+- 底线
+- 间距
+- 容器和纵横比
+- 触摸并单击目标
 
-    来源：http://one-design.baidu-int.com/design/basic/grid
+> 参考 [Material Design - 布局 - 间距](https://material.io/design/layout/spacing-methods.html#)
 
-## 四. 间距行为
+# 组件行为 (新增)
 
-## 五. 组件行为
+- 定位术语
+- 组件宽度
+- 响应模式
 
-## 六. 视图密度
+> 参考 [Material Design - 布局 - 组件](https://material.io/design/layout/component-behavior.html)
+
+# 视图密度 (新增)
+    Material Design默认使用低密度空间（具有较大的水龙头目标和边距），但在改善用户体验时提供高密度空间。
+
+- 用法
+- 布局
+- 触摸并单击目标
+- 印刷密度
+
+> 参考 [Material Design - 布局 - 密度](https://material.io/design/layout/density.html#)
