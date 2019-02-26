@@ -19,12 +19,6 @@
 
 > 参考 [Clarity Design - 间距](https://design.teambition.com/visual-spacing)
 
-
-- Keylines
-- Padding
-- Vertical spacing
-- Increment
-
 > 参考 [Material Design - 布局 - 间距](https://material.io/design/layout/spacing-methods.html#)
 
 # 组件行为 (新增)
