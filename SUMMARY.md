@@ -8,4 +8,5 @@
     * [Shape 形状](foundation/shape.md)
     * [Layout 布局](foundation/layout.md)
     * [Navigation 导航](foundation/navigation.md)
+    * [Layer 图层](foundation/layer.md)
 
