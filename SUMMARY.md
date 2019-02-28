@@ -11,4 +11,5 @@
     * [Layer 图层](foundation/layer.md)
     * [Interaction 交互](foundation/interaction.md)
     * [Motion 动效](foundation/motion.md)
+    * [Communication 沟通](foundation/communication.md)
 
