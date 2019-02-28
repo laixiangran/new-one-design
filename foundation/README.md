@@ -18,5 +18,5 @@
 
 - [Motion 动效](motion.md)
 
-- [Communication](communication.md)
+- [Communication 沟通](communication.md)
 
