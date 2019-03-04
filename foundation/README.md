@@ -14,8 +14,6 @@
 
 - [Layer 图层](layer.md)
 
-- [Interaction 交互](interaction.md)
-
 - [Motion 动效](motion.md)
 
 - [Communication 沟通](communication.md)
